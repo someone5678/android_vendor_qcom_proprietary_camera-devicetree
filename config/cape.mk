@@ -12,4 +12,5 @@ dtbo-$(CONFIG_ARCH_CAPE) += cape-camera.dtbo
 dtbo-$(CONFIG_ARCH_CAPE) += cape-camera-sensor-mtp.dtbo \
 				cape-camera-sensor-cdp.dtbo \
 				cape-camera-sensor-qrd.dtbo \
-				diting-sm8475-camera-sensor.dtbo
+				diting-sm8475-camera-sensor.dtbo \
+				mondrian-sm8475-camera-sensor.dtbo \
